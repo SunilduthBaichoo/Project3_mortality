@@ -1,6 +1,9 @@
 # Project3_mortality
 A Visualization project to study major mortality causes for informed decision making.
 
+A powerpoint presentation of the project can be found here : https://docs.google.com/presentation/d/1qnH1wmWCbdr6HocKliGCOUD_IzJY2D7DmEgDXAFxV3w/edit#slide=id.gd251bb473_0_681
+
+
 # Project3 Title
 "Global Mortality Trends: Analyzing Leading Causes, Gender-Based Impacts, and Geographical Patterns Over the Last Decade"
 
